@@ -18,4 +18,4 @@ http://localhost:5173/
 
 ADMIN ACCOUNT
 Login email: george@discoverlatitude.com
-password: Latitude27
+password: L*****27
